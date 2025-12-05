@@ -1,0 +1,11 @@
+Version 1.0
+i) Initial version Release
+
+Version 1.0.1
+i) Added images URL.
+
+Version 1.0.2
+i) Minor CSS changes.
+
+Version 1.0.3
+i) Resolved white stripe issue on footer.

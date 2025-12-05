@@ -1,0 +1,464 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cakified\n"
+"POT-Creation-Date: 2025-07-31 15:14+0530\n"
+"PO-Revision-Date: 2025-07-31 15:14+0530\n"
+"Last-Translator: \n"
+"Language-Team: Flythemes Team <support@flythemes.net>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;esc_attr_e;esc_html_e;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: block-patterns.php:17
+msgid "Cakified"
+msgstr ""
+
+#: inc/about.php:48
+msgid "Free Full Site Editing WordPress Theme"
+msgstr ""
+
+#: inc/about.php:59
+msgid "Getting Started with Cakified!"
+msgstr ""
+
+#: inc/about.php:60
+msgid ""
+"Awesome! Cakified has been installed and activated successfully. Now, you "
+"can start building your dream website with a wide range of highly-"
+"customizable block patterns, templates, and template parts available in this "
+"astounding theme."
+msgstr ""
+
+#: inc/about.php:66
+msgid "More Features with Cakified Pro Theme"
+msgstr ""
+
+#: inc/about.php:67
+msgid ""
+"To get more features and unique home page sections, we recommend you "
+"activate the Cakified Pro. With the pro theme installed, get more options "
+"like google fonts, colors, sliders, page template, shortcodes and more."
+msgstr ""
+
+#: inc/about.php:68
+msgid "Buy Cakified Pro"
+msgstr ""
+
+#: inc/about.php:77
+msgid "Important Links"
+msgstr ""
+
+#: inc/about.php:78
+msgid "Theme Info"
+msgstr ""
+
+#: inc/about.php:79
+msgid "View Demo"
+msgstr ""
+
+#: inc/about.php:80
+msgid "Support"
+msgstr ""
+
+#: inc/about.php:87
+msgid "Leave us a review"
+msgstr ""
+
+#: inc/about.php:88
+msgid ""
+"Loved Cakified? Feel free to leave your feedback. Your opinion helps us "
+"reach more audiences!"
+msgstr ""
+
+#: inc/about.php:89
+msgid "Review"
+msgstr ""
+
+#: patterns/404.php:12
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:16
+msgid "Page not found!"
+msgstr ""
+
+#: patterns/404.php:20
+msgid "Sorry, the page you are looking for does not exist or has been moved."
+msgstr ""
+
+#: patterns/404.php:25
+msgid "Return Home"
+msgstr ""
+
+#: patterns/archive.php:54
+msgid "Sorry, No posts exists..."
+msgstr ""
+
+#: patterns/archive.php:65
+#: patterns/single.php:63
+msgid "Search"
+msgstr ""
+
+#: patterns/archive.php:75
+#: patterns/single.php:73
+msgid "Popular Posts"
+msgstr ""
+
+#: patterns/archive.php:99
+#: patterns/single.php:97
+msgid "Categories"
+msgstr ""
+
+#: patterns/archive.php:109
+#: patterns/single.php:107
+msgid "Archives"
+msgstr ""
+
+#: patterns/archive.php:119
+#: patterns/single.php:117
+msgid "Tags"
+msgstr ""
+
+#: patterns/banner.php:16
+msgid "Black forest cake"
+msgstr ""
+
+#: patterns/banner.php:22
+msgid "Cakes made with"
+msgstr ""
+
+#: patterns/banner.php:22
+msgid "love"
+msgstr ""
+
+#: patterns/banner.php:27
+msgid "Order Here!"
+msgstr ""
+
+#: patterns/deals.php:19
+msgid "Limited Time Treats"
+msgstr ""
+
+#: patterns/deals.php:25
+msgid "Sweetest Deals Just for You!"
+msgstr ""
+
+#: patterns/deals.php:37
+msgid "Flat 50% OFF!"
+msgstr ""
+
+#: patterns/deals.php:41
+msgid "On all cupcakes & mini cakes — for a limited time only."
+msgstr ""
+
+#: patterns/deals.php:46
+msgid "Order Now"
+msgstr ""
+
+#: patterns/deals.php:55
+msgid "Buy 1 Get 1 Free!"
+msgstr ""
+
+#: patterns/deals.php:59
+msgid ""
+"Grab your favorite pastries and get another one absolutely free every Friday."
+msgstr ""
+
+#: patterns/deals.php:64
+msgid "Grab This Deal"
+msgstr ""
+
+#: patterns/deals.php:71
+msgid "Free Delivery!"
+msgstr ""
+
+#: patterns/deals.php:75
+msgid "Enjoy free delivery on orders above ₹999. Sweet deal, right?"
+msgstr ""
+
+#: patterns/deals.php:80
+msgid "Shop Now"
+msgstr ""
+
+#: patterns/features.php:19
+msgid "Sweet Picks"
+msgstr ""
+
+#: patterns/features.php:25
+msgid "From Our Oven"
+msgstr ""
+
+#: patterns/features.php:29
+msgid ""
+"Discover our most loved and handpicked cakes, baked fresh every day with "
+"premium ingredients. Whether it's a"
+msgstr ""
+
+#: patterns/features.php:29
+msgid ""
+"birthday, anniversary, or just a sweet craving — our signature collection is "
+"made to impress."
+msgstr ""
+
+#: patterns/features.php:55
+msgid "Chocolate Cake"
+msgstr ""
+
+#: patterns/features.php:59
+msgid "Rich and moist chocolate cake with fudge layers."
+msgstr ""
+
+#: patterns/features.php:81
+msgid "Mini Cupcake"
+msgstr ""
+
+#: patterns/features.php:85
+msgid "Delightful mini cupcakes topped with creamy strawberry frosting."
+msgstr ""
+
+#: patterns/features.php:107
+msgid "Vanilla Muffin"
+msgstr ""
+
+#: patterns/features.php:111
+msgid "Soft and fluffy vanilla muffin topped with sugar glaze."
+msgstr ""
+
+#: patterns/features.php:133
+msgid "Fruit Pastry"
+msgstr ""
+
+#: patterns/features.php:137
+msgid "Creamy pastry loaded with fresh seasonal fruits."
+msgstr ""
+
+#: patterns/footer.php:25
+msgid ""
+"adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna "
+"aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris "
+"nisi ut aliquip ex ea commodo consequat. adipiscing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua."
+msgstr ""
+
+#: patterns/footer.php:35
+msgid "Quick Links"
+msgstr ""
+
+#: patterns/footer.php:44
+msgid "Home"
+msgstr ""
+
+#: patterns/footer.php:50
+msgid "About Us"
+msgstr ""
+
+#: patterns/footer.php:58
+msgid "Blog"
+msgstr ""
+
+#: patterns/footer.php:64
+msgid "Services"
+msgstr ""
+
+#: patterns/footer.php:72
+msgid "Order"
+msgstr ""
+
+#: patterns/footer.php:78
+msgid "FAQ's"
+msgstr ""
+
+#: patterns/footer.php:86
+msgid "Contact"
+msgstr ""
+
+#: patterns/footer.php:92
+msgid "Shortcode"
+msgstr ""
+
+#: patterns/footer.php:105
+msgid "Contact us"
+msgstr ""
+
+#: patterns/footer.php:117
+msgid "83 Grove Road London"
+msgstr ""
+
+#: patterns/footer.php:127
+msgid "0451 487 585"
+msgstr ""
+
+#: patterns/footer.php:137
+msgid "1234567896"
+msgstr ""
+
+#: patterns/footer.php:147
+#: patterns/header.php:38
+msgid "demo@example.com"
+msgstr ""
+
+#: patterns/footer.php:157
+msgid "11am-9pm"
+msgstr ""
+
+#: patterns/footer.php:179
+msgid "Our Gallery"
+msgstr ""
+
+#: patterns/footer.php:210
+msgid "Subscribe Our Newsletter"
+msgstr ""
+
+#: patterns/footer.php:223
+msgid "© Copyright 2025. All Rights Reserved."
+msgstr ""
+
+#: patterns/footer.php:227
+msgid "Fly Themes"
+msgstr ""
+
+#: patterns/footer.php:227
+msgid "and"
+msgstr ""
+
+#: patterns/footer.php:227
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer.php:227
+msgid "WordPress"
+msgstr ""
+
+#: patterns/header.php:22
+msgid "667 Madisyn Way, Kossfurt, Hawaii"
+msgstr ""
+
+#: patterns/header.php:54
+msgid "+3-(642)-222-0089"
+msgstr ""
+
+#: patterns/header.php:70
+msgid "Mon - Sat 9:00 am to 5:00 pm"
+msgstr ""
+
+#: patterns/header.php:112
+msgid "Order Here"
+msgstr ""
+
+#: patterns/latest-news.php:19
+msgid "Latest News"
+msgstr ""
+
+#: patterns/latest-news.php:25
+msgid "Our Insights & Articles"
+msgstr ""
+
+#: patterns/latest-news.php:59
+msgid "Read More"
+msgstr ""
+
+#: patterns/products.php:19
+msgid "Our Fresh Picks"
+msgstr ""
+
+#: patterns/products.php:25
+msgid "Baked With Love, Served With Joy"
+msgstr ""
+
+#: patterns/products.php:29
+msgid ""
+"Indulge in our hand-picked selection of freshly baked cakes, cupcakes, and "
+"pastries made with the finest ingredients."
+msgstr ""
+
+#: patterns/products.php:29
+msgid ""
+"Whether you're celebrating a special moment or just treating yourself, these "
+"sweet delights are perfect for every occasion."
+msgstr ""
+
+#: patterns/products.php:46
+msgid "Muffins, Vegan"
+msgstr ""
+
+#: patterns/products.php:50
+msgid "Vegan Chocolate Muffin (Pack of 2)"
+msgstr ""
+
+#: patterns/products.php:55
+#: patterns/products.php:89
+#: patterns/products.php:123
+#: patterns/products.php:157
+msgid "$6.50"
+msgstr ""
+
+#: patterns/products.php:59
+#: patterns/products.php:93
+msgid "$5.50"
+msgstr ""
+
+#: patterns/products.php:65
+#: patterns/products.php:99
+#: patterns/products.php:133
+#: patterns/products.php:167
+msgid "Add to Cart"
+msgstr ""
+
+#: patterns/products.php:80
+msgid "Breads"
+msgstr ""
+
+#: patterns/products.php:84
+msgid "Focaccia with Rosemary & Sea Salt"
+msgstr ""
+
+#: patterns/products.php:114
+msgid "Desserts"
+msgstr ""
+
+#: patterns/products.php:118
+msgid "Double Chocolate Brownie"
+msgstr ""
+
+#: patterns/products.php:127
+msgid "$4.70"
+msgstr ""
+
+#: patterns/products.php:148
+msgid "Cakes"
+msgstr ""
+
+#: patterns/products.php:152
+msgid "Carrot Cake (Slice)"
+msgstr ""
+
+#: patterns/products.php:161
+msgid "$5.75"
+msgstr ""
+
+#: patterns/video.php:27
+msgid "Crafting Moments, One Cake at a Time"
+msgstr ""
+
+#: patterns/video.php:31
+msgid ""
+"Step inside our kitchen and discover the magic behind every handcrafted "
+"treat. From premium ingredients to passionate hands — our story is baked "
+"into every bite."
+msgstr ""
+
+#: patterns/video.php:35
+msgid ""
+"Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore "
+"eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, "
+"sunt in culpa qui officia deserunt mollit anim id est laborum."
+msgstr ""
+
+#: patterns/video.php:40
+msgid "Watch the Story"
+msgstr ""
